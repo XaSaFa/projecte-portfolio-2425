@@ -5,3 +5,6 @@
 
 - [Bootstrap](bootstrap.md)
 
+### Activitats:
+
+- [Activitat 1 - Web lliure](activitat1.md)
