@@ -26,3 +26,8 @@ Incloure al HEAD del nostre document:
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 ```
+
+### Exemples Bootstrap.
+
+- [Exemples 5.3](https://getbootstrap.com/docs/5.3/examples/)
+- [W3Schools](https://www.w3schools.com/bootstrap5/index.php)
