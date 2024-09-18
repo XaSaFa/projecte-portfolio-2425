@@ -4,6 +4,7 @@
 ### Teoria:
 
 - [Bootstrap](bootstrap.md)
+- [AOS](aos.md)
 
 ### Activitats:
 
