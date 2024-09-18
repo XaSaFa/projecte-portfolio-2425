@@ -3,8 +3,8 @@
 
 ### Teoria:
 
-- [Bootstrap](bootstrap.md)
-- [AOS](aos.md)
+- [Framework Bootstrap](bootstrap.md)
+- [Animacions dins la web amb AOS](aos.md)
 
 ### Activitats:
 
