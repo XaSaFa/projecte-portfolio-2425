@@ -16,4 +16,8 @@ El web inclourà almenys els següents elements:
 - Una **alerta** que doni la benvinguda a l'usuari i es pugui amagar.
 - Un **footer** explicant qui sou.
 - Un **album**.
-- Un o més **hero**. 
+- Un o més **hero**.
+
+# Ampliació: 
+
+Fer que tingui 5 animacions AOS la web anterior.
