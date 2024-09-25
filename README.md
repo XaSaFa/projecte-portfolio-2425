@@ -5,6 +5,8 @@
 
 - [Framework Bootstrap](bootstrap.md)
 - [Animacions dins la web amb AOS](aos.md)
+- [Github webpages](https://pages.github.com/)
+- [Web personal de github amb Github Desktop](github_desktop.md)
 
 ### Activitats:
 
