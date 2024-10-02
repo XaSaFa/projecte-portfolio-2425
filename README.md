@@ -11,3 +11,9 @@
 ### Activitats:
 
 - [Activitat 1 - Web lliure](activitat1.md)
+
+### Descàrrega Github Desktop per Linux:
+
+```
+wget https://github.com/shiftkey/desktop/releases/download/release-3.4.3-linux1/GitHubDesktop-linux-amd64-3.4.3-linux1.deb
+```
